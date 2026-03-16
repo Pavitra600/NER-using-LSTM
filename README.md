@@ -99,9 +99,11 @@ def train_model(model,train_loader,test_loader,loss_fn,optimixer,epochs=10):
 ## OUTPUT:
 
 ### Training Loss, Validation Loss Vs Iteration Plot
+<img width="775" height="620" alt="image" src="https://github.com/Pavitra600/NER-using-LSTM/blob/06903998c1ecfcafb1f9924177945baaaa464f89/Screenshot%202026-03-16%20090047.png" />
 
 ### Sample Text Prediction
 
+<img width="699" height="700" alt="image" src="https://github.com/Pavitra600/NER-using-LSTM/blob/06903998c1ecfcafb1f9924177945baaaa464f89/Screenshot%202026-03-16%20090754.png" />
 
 ## RESULT:
 
